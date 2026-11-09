@@ -1,0 +1,6 @@
+{
+  "name": "Kids Venter Pro Game",
+  "description": "Kids Venter Pro Game - Fast-paced mental math training with custom digits, addition, subtraction, multiplication, division, and an interactive 3D character locker with football stars and superhero legends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
